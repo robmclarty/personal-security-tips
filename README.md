@@ -5,16 +5,16 @@ In the age of mass surveillance, your personal information is much more easily a
 
 ## If you don't do anything else, do these things
 
-- accept that it *will* happen to you; you're not special; automated bots, hackers, criminals, and governments are all, constantly, trying to break into everything the can get their hands on
+- accept that it *will* happen to you; you're not special
+- never use the same password more than once
+- use strong passwords (e.g., use "n_*8DkeX@nR0g3=@sAwP!0k" not "12345" nor "p4ssw0rd")
+- use a password manager
+- use a passphrase instead of a PIN to unlock your phone
+- only bring what you need across the border
+- use encryption whenever you can 
+- backup everything, often
+- be careful what you click and beware of scams; if you don't understand someone, don't do what they say
 - use less software, and regularly update what you use
-- only ever use unique passwords
-- use a password manager to make it trivial to use strong passwords
-- use a memorable passphrase for your phone instead of a PIN
-- when you're crossing a border, only bring what you need (minimize how much personal data may be at risk from leaking via border agents confiscating your devices)
-- use encryption whenever you can (using encryption is like placing a letter in an envelope, as opposed to sending a postcard, which everyone can read)
-- backup everything, and backup as frequently as you can 
-- beware of "phishing" scams; if something seems off or otherwise suspicious back away from it; if someone calls you on the phone asking security questions, don't answer them (ask what company they're from and call that company's main phone number yourself so you know who you're talking with); 
-- be careful what you click; don't click on links (from emails or just on webpages) unless you know where they lead and what they're doing (e.g., hover over them with your cursor to see the URL); if you don't understand what a link is doing, leave it alone!
 
 
 ## General
