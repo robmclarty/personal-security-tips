@@ -7,7 +7,7 @@ In the age of mass surveillance, your personal information is much more easily a
 
 - accept that it *will* happen to you; you're not special
 - never use the same password more than once
-- use strong passwords (e.g., use "n_*8DkeX@nR0g3=@sAwP!0k" not "12345" nor "p4ssw0rd")
+- use strong passwords (e.g., use `n_*8DkeX@nR0g3=@sAwP!0k` not `12345` nor `p4ssw0rd`)
 - use a password manager
 - use a passphrase instead of a PIN to unlock your phone
 - only bring what you need across the border
