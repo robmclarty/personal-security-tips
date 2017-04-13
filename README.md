@@ -1,4 +1,4 @@
-# Personal Security Tips
+# Personal Digital Security Tips
 
 In the age of mass surveillance, your personal information is much more easily accessed by 3rd parties whom you may not necessarily wish to permit accesss. But increased security usually comes at a cost of some convenience. It is up to you to decide how far down the rabbit hole of paranoia you want to fall, but doing nothing only makes you a sucker. Defend yourself.
 
