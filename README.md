@@ -12,7 +12,7 @@ In the age of mass surveillance, your personal information is much more easily a
 - use a passphrase instead of a PIN to unlock your phone (e.g., "iamatalldinosaurfromouterspace" not "4321")
 - use adblockers/filters (e.g., [privacy badger](https://www.eff.org/privacybadger) and/or [ublock origin](https://github.com/gorhill/uBlock))
 - only bring what you need across the border (it might get cracked or confiscated)
-- be careful what you click and beware of scams (if you don't understand someone or something, don't do what they say)
+- be careful what you click and beware of scams; if you don't understand someone or something, don't do what they say
 - use less software, and regularly update what you do use (minimize your attack surface)
 
 
