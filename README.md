@@ -6,23 +6,22 @@ In the age of mass surveillance, your personal information is much more easily a
 ## If you don't do anything else, do these things
 
 - accept that it *will* happen to you; you're not special
-- never use the same password more than once
+- never use the same password more than once (if one account is compromised, all accounts are compromised)
 - use strong passwords (e.g., use `n_*8DkeX@nR0g3=@sAwP!0k` not `12345` nor `p4ssw0rd`)
-- use a password manager
-- use a passphrase instead of a PIN to unlock your phone
-- only bring what you need across the border
-- use encryption whenever you can 
-- backup everything, often
-- be careful what you click and beware of scams; if you don't understand someone, don't do what they say
-- use less software, and regularly update what you use
+- use a password manager (e.g., [1password](https://1password.com/) or [keypass](https://www.keepassx.org/))
+- use a passphrase instead of a PIN to unlock your phone (e.g., "iamatalldinosaurfromouterspace" not "4321")
+- use adblockers/filters (e.g., [privacy badger](https://www.eff.org/privacybadger) and/or [ublock origin](https://github.com/gorhill/uBlock))
+- only bring what you need across the border (it might get cracked or confiscated)
+- be careful what you click and beware of scams (if you don't understand someone or something, don't do what they say)
+- use less software, and regularly update what you do use (minimize your attack surface)
 
 
-## General
+## General Purpose
 
 - use less software and regularly update what you do use; if you don't need it, don't use it; the less software you're using in the first place, the lower the risk of an attacker cracking your system; if there's stuff on your devices you're no longer using, delete it
 - never ever ever use the same password more than once! each service you use should have a unique password
 - use "strong" passwords (e.g., >20 random digits pulling from all the symbols on your keyboard)
-- use a password manager to store all your individually unique, and super-strong passwords, so you don't need to remember them and can, thus, make them even stronger (e.g., I use 50-digit random sequences if the service allows it)
+- use a password manager to store all your individually unique, and super-strong passwords, so you don't need to remember them and can, thus, make them even stronger (e.g., I use 50+ digit random sequences if the service allows it)
 - never use a real answer to so-called "security questions" because that information is usually publicly obtainable by potential attackers (e.g., "what's your birthday?"); instead, treat these fields as passwords themselves and generate new, strong passwords using your password manager so that no one could possibly guess them (these "security questions" are usually the most vulnerable, and INsecure, parts of an authentication system)
 - use "2 factor authentication" for anything that matters to you (e.g., Google, Facebook, Github, etc.); a strong password is a great first step, but for services that are important, add an additional requirement for authentication (e.g., an app that generates special codes on your phone, a special biometric key like Yubikey, etc.)
 - do NOT use SMS as your second factor (plain text messages can be intercepted by attackers and even spoofed so you unwittingly grant access to the attacker)
