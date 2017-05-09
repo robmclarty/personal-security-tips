@@ -78,3 +78,8 @@ In the age of mass surveillance, your personal information is much more easily a
 - build a [mesh network](https://en.wikipedia.org/wiki/Mesh_networking) and surf the internet without an ISP at all
 - use a network monitor/filter/firewall to control what comes in and what goes out from your computer (e.g., [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html))
 - activate self-destruct on your mobile devices (after a certain number of failed login attempts, the device will erase all data on it to prevent the data from falling into an advesary's hands)
+
+
+## Contribute
+
+If you see something that's incorrect, or something that's missing, make a pull request!
